@@ -22,24 +22,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![logo](https://user-images.githubusercontent.com/106732076/172147820-7b748d15-87a3-45d6-bf04-f5cd9053df63.png)
 
-**Resolución:** Todo el juego consta de una dimensiones de 800px por 600px. Estas dimensiones permiten que el archivo pese menos y, como resultado, funcione con fluidez.
+**Resolución:** Todo el juego consta de una dimensiones de 800px por 600px tamaño fijo y reescalable. Estas dimensiones permiten que el archivo pese menos y, como resultado, funcione con fluidez.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 9,50 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 06/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github:https://github.com/meryjurado
+- Instagram: https://www.instagram.com/meryjuradocuevas/?hl=es
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
