@@ -28,7 +28,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Tamaño proyecto:** 9,50 MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual sin fines comerciales (CC BY-NC-SA 4.0).
 
 **Fecha** : 06/06/2022
 
@@ -57,43 +57,26 @@ Seguidamente elaboré el diseño de las demás escenas por orden de aparición. 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+Para tener una mejor visión de como se estructuraría los cambio de escenas y el orden de estas, realicé un pequeño esquema que indicara el orden de la secuencia.
+![Ilustración_sin_título](https://user-images.githubusercontent.com/106732076/172198422-59cd4644-b065-4a00-8108-9809927eecf9.jpg)
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
-
 ### Etapa 1: Ideación de proyecto
-
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+Partimos de la propuesta común sobre el desarrollo de productos multimedia basado en una metodología de UX (User Experience). Desde un comienzo tuve claro que quería desarrollar un juego de misterio en el que se tuviera que buscar pistas. De este modo no solo aprendería a programar pequeñas interacciones, sino que además me retaría a crear mis propios personajes, escenarios e historia.
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Desarrollé este tipo de juego puesto que ya previamente yo había pasado horas jugando a juegos de pistas muy interesantes, que además de entretenerte, permite que ejercites el cerebro intentando adivinar acertijos mediante minijuegos.
 
+**Inspiración e influencias**
 
+Me inspiré principalmente en la estructura y del tipo de juego sel conocido de juego para smartphones "Rustic Lake
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+Se busca especialmente la atención de un público jóven, especialmente de los adolescentes. Este rango de edad está muy adentrado en la tecnología y el mundo de los videojuegos, por lo que es más probable que disfrutaran de la historia, la interacción y la estética.
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
@@ -144,7 +127,7 @@ Este  proyecto es interesante porque ...
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
+![Creative Commons](https://user-images.githubusercontent.com/106732076/172201428-569430f5-61fd-43dd-bbe6-53c790ef1673.png)
 
-https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
