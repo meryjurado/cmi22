@@ -17,7 +17,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : Este proyecto trata de un pequeño mistero. Un niño duerme placidamente cuando de repente un desgarrador grito lo despierta. Se trata de un niño valiente, por lo que decide ir a descubrir el origen de ese grito. Para lograrlo tiene que buscar objetos clave que le permite desbloquear las puertas. No esperaba lo que iba a encontrar. 
 
 **Estilo/género:**  Juego de misterio
-**Logotipo** : ![logo](https://user-images.githubusercontent.com/106732076/172147820-7b748d15-87a3-45d6-bf04-f5cd9053df63.png)
+
+**Logotipo** : 
+
+![logo](https://user-images.githubusercontent.com/106732076/172147820-7b748d15-87a3-45d6-bf04-f5cd9053df63.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
