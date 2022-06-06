@@ -32,10 +32,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 06/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github:https://github.com/meryjurado
-- Instagram: https://www.instagram.com/meryjuradocuevas/?hl=es
+- Instagram:https://www.instagram.com/meryjuradocuevas/?hl=es
 
 
 # 2. Memoria del proyecto 
@@ -44,7 +44,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Antes de realizar el proyecto, tuve que organizar las interacciones y planos que iban a ir apareciendo. 
+Primeramente me centré en el aspecto del teaser, diseñando la estética de cada plano y reorganizándolos para que cobrara un sentido.
+[Storyboard.pdf](https://github.com/meryjurado/meryjurado.github.io/files/8843963/Storyboard.pdf)
+
 
 
 
