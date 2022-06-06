@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![logo](https://user-images.githubusercontent.com/106732076/172147820-7b748d15-87a3-45d6-bf04-f5cd9053df63.png)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** Todo el juego consta de una dimensiones de 800px por 600px. Estas dimensiones permiten que el archivo pese menos y, como resultado, funcione con fluidez.
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
