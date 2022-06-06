@@ -46,7 +46,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Antes de realizar el proyecto, tuve que organizar las interacciones y planos que iban a ir apareciendo. 
 Primeramente me centré en el aspecto del teaser, diseñando la estética de cada plano y reorganizándolos para que cobrara un sentido.
-[Storyboard.pdf](https://github.com/meryjurado/meryjurado.github.io/files/8843963/Storyboard.pdf)
+![Storyboard (1)-1](https://user-images.githubusercontent.com/106732076/172150412-e3ca8bd0-98ea-4c79-ae01-ae80dac6d226.jpg)
+
+Seguidamente elaboré el diseño de las demás escenas por orden de aparición. Después del teaser aparecería el Main menu, en el que aparecerían los botones correctos que nos redirigirían a las demás escenas.
+![Storyboard-2](https://user-images.githubusercontent.com/106732076/172150546-e1395a49-cfbb-476e-abde-c7cd58ebb02a.jpg)
+
 
 
 
