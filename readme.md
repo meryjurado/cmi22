@@ -10,16 +10,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : What was that?
 
-**Web:**   (url github.io)
+**Web:**   (http://meryjurado.github.io/)
 
 **Autor:**  Mery Jurado Cuevas
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto trata de un pequeño mistero. Un niño duerme placidamente cuando de repente un desgarrador grito lo despierta. Se trata de un niño valiente, por lo que decide ir a descubrir el origen de ese grito. Para lograrlo tiene que buscar objetos clave que le permite desbloquear las puertas. No esperaba lo que iba a encontrar. 
 
 **Estilo/género:**  Juego de misterio
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : ![logo](https://user-images.githubusercontent.com/106732076/172147820-7b748d15-87a3-45d6-bf04-f5cd9053df63.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
